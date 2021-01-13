@@ -7,5 +7,5 @@ script.Parent.MouseButton1Click:connect(fuction(GetCar)
   clone = Mod:clone()
   clone.Parent = workspace
   clone:MakeJoints()
-  print"Car Spawn Script Made By Fortress Master" --Don't delete this, this is credit
+  print("Car Spawn Script Made By Fortress Master") --Don't delete this, this is credit
 end)
